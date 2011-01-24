@@ -1,0 +1,3 @@
+ADD_SUBDIRECTORY(composite)
+ADD_SUBDIRECTORY(decorator)
+ADD_SUBDIRECTORY(facade)

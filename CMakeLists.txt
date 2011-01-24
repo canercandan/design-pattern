@@ -1,0 +1,3 @@
+ADD_SUBDIRECTORY(behavorial)
+ADD_SUBDIRECTORY(creational)
+ADD_SUBDIRECTORY(structural)
